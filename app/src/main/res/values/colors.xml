@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app">#0A0D21</color>
+    <color name="card_bg">#1A1F38</color>
+    <color name="red">#EA3E34</color>
+    <color name="slide_color">#3A2582</color>
+    <color name="green">#428758</color>
+    <color name="purple">#44309B</color>
+    <color name="textcolor">#00FF00</color>
+    <color name="colorUnderWeight">#ADD8E6</color>
+    <color name="colorNormal">#008000</color>
+    <color name="colorOverWeight">#FFA500</color>
+    <color name="colorObese">#FF0000</color>
+</resources>
